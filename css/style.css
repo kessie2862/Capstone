@@ -146,6 +146,11 @@ section .curvy-desktop img {
   display: flex;
   justify-content: center;
   margin: 0 auto;
+  width: 100%;
+}
+
+.pic-display .description {
+  margin-right: 143px;
 }
 
 .pic-display .description h2 {
